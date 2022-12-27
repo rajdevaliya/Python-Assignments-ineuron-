@@ -1,0 +1,48 @@
+ 2022-12-25 11:15:41,543 - DEBUG - Data Inserted Successfully
+ 2022-12-25 11:15:41,543 - DEBUG - Connection Closed Successfully
+ 2022-12-25 11:19:08,557 - DEBUG - pickle loaded: C:\Python311\Lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+ 2022-12-25 11:19:09,415 - DEBUG - diff parser start
+ 2022-12-25 11:19:09,415 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-25 11:19:09,416 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-25 11:19:09,417 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-25 11:19:09,417 - DEBUG - diff parser end
+ 2022-12-25 11:19:21,967 - DEBUG - diff parser start
+ 2022-12-25 11:19:21,968 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-25 11:19:21,968 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-25 11:19:21,968 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-25 11:19:21,969 - DEBUG - diff parser end
+ 2022-12-25 11:20:03,335 - DEBUG - Data Inserted Successfully
+ 2022-12-25 11:20:03,336 - DEBUG - Connection Closed Successfully
+ 2022-12-25 11:20:28,704 - DEBUG - pickle loaded: C:\Python311\Lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+ 2022-12-25 11:20:28,848 - DEBUG - pickle loaded: C:\Python311\Lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+ 2022-12-25 11:20:29,423 - DEBUG - diff parser start
+ 2022-12-25 11:20:29,423 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-25 11:20:29,425 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-25 11:20:29,426 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-25 11:20:29,426 - DEBUG - diff parser end
+ 2022-12-25 11:20:32,472 - DEBUG - diff parser start
+ 2022-12-25 11:20:32,473 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-25 11:20:32,473 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-25 11:20:32,474 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-25 11:20:32,475 - DEBUG - diff parser end
+ 2022-12-25 11:20:54,964 - DEBUG - diff parser start
+ 2022-12-25 11:20:54,965 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-25 11:20:54,965 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-25 11:20:54,966 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-25 11:20:54,966 - DEBUG - diff parser end
+ 2022-12-25 11:20:56,235 - DEBUG - diff parser start
+ 2022-12-25 11:20:56,235 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-25 11:20:56,236 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-25 11:20:56,236 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-25 11:20:56,237 - DEBUG - diff parser end
+ 2022-12-25 11:20:56,281 - DEBUG - pickle loaded: C:\Python311\Lib\logging\__init__.py
+ 2022-12-25 11:20:57,172 - DEBUG - diff parser start
+ 2022-12-25 11:20:57,173 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-25 11:20:57,173 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-25 11:20:57,174 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-25 11:20:57,174 - DEBUG - diff parser end
+ 2022-12-25 11:21:03,346 - DEBUG - diff parser start
+ 2022-12-25 11:21:03,347 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-25 11:21:03,347 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-25 11:21:03,348 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-25 11:21:03,348 - DEBUG - diff parser end
